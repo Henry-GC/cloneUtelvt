@@ -1,0 +1,455 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 07 Oct 2024 21:11:17 at https://www.utelvt.edu.ec/site/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.utelvt.edu.ec/site/ -O1 "C:\My Web Sites\UTELVT" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:12:36	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.utelvt.edu.ec/site/wp-content/plugins/essential-blocks/assets/js/eb-blocks-localize.js
+21:12:51	Error: 	"Method Not Allowed" (405) at link https://www.utelvt.edu.ec/site/xmlrpc.php (from https://www.utelvt.edu.ec/site/)
+21:19:00	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/course/noticias/
+21:19:00	Warning: 	File has moved from https://www.utelvt.edu.ec/site/course/noticias/ to https://www.utelvt.edu.ec/site/noticias/
+21:19:45	Error: 	"Not Found" (404) at link https://www.utelvt.edu.ec/site/wp-content/themes/education-zone-pro/css/owl.video.play.png (from https://www.utelvt.edu.ec/site/wp-content/themes/education-zone-pro/css/owl.carousel.min.css)
+21:19:45	Error: 	"Not Found" (404) at link https://www.utelvt.edu.ec/site/wp-content/themes/education-zone-pro/css/mCSB_buttons.png (from https://www.utelvt.edu.ec/site/wp-content/themes/education-zone-pro/css/jquery.mCustomScrollbar.min.css)
+21:19:48	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=176
+21:19:48	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=176 to https://www.utelvt.edu.ec/site/informacion-general/
+21:19:48	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=180
+21:19:48	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=180 to https://www.utelvt.edu.ec/site/nuestros-campus/
+21:19:48	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=178
+21:19:48	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=178 to https://www.utelvt.edu.ec/site/gobierno-institucional/
+21:19:49	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=184
+21:19:49	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=184 to https://www.utelvt.edu.ec/site/autoridades/
+21:19:49	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=186
+21:19:49	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=186 to https://www.utelvt.edu.ec/site/marco-legal/
+21:19:49	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=10890
+21:19:49	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=10890 to https://www.utelvt.edu.ec/site/course/relaciones-nacionales-e-internacionales/
+21:20:05	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=4453
+21:20:05	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=4453 to https://www.utelvt.edu.ec/site/nuestro-patrono/
+21:20:05	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=775
+21:20:05	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=775 to https://www.utelvt.edu.ec/site/facultades/facultad-de-ingenierias/
+21:20:39	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=163
+21:20:39	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=163 to https://www.utelvt.edu.ec/site/facultades/ciencias-sociales-y-de-servicios/
+21:21:01	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=165
+21:21:01	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=165 to https://www.utelvt.edu.ec/site/facultades/ciencias-administrativas-y-economicas/
+21:21:23	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=167
+21:21:23	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=167 to https://www.utelvt.edu.ec/site/facultades/ciencias-agropecuarias/
+21:21:44	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=169
+21:21:44	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=169 to https://www.utelvt.edu.ec/site/facultades/facultad-de-pedagogia/
+21:22:26	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=10913
+21:22:26	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=10913 to https://www.utelvt.edu.ec/site/ano-2024/
+21:22:26	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=8001
+21:22:26	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=8001 to https://www.utelvt.edu.ec/site/ano-2023/
+21:22:26	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=5957
+21:22:26	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=5957 to https://www.utelvt.edu.ec/site/ano-2022/
+21:22:26	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=2644
+21:22:26	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=2644 to https://www.utelvt.edu.ec/site/transparencia/ano-2021/
+21:22:26	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=2636
+21:22:26	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=2636 to https://www.utelvt.edu.ec/site/transparencia/ano-2020/
+21:22:26	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=2620
+21:22:26	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=2620 to https://www.utelvt.edu.ec/site/transparencia/ano-2019/
+21:22:26	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=2526
+21:22:26	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=2526 to https://www.utelvt.edu.ec/site/transparencia/ano-2018/
+21:22:26	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link https://utelvt.edu.ecsite/wp-content/uploads/2021/03/pp1.jpg (from https://www.utelvt.edu.ec/site/transparencia/ano-2018/)
+21:22:26	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://utelvt.edu.ecsite/wp-content/uploads/2021/03/pp2.jpg (from https://www.utelvt.edu.ec/site/transparencia/ano-2018/)
+21:22:26	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://utelvt.edu.ecsite/wp-content/uploads/2021/03/pp3.jpg (from https://www.utelvt.edu.ec/site/transparencia/ano-2018/)
+21:22:26	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://utelvt.edu.ecsite/wp-content/uploads/2021/03/pp5.jpg (from https://www.utelvt.edu.ec/site/transparencia/ano-2018/)
+21:22:26	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://utelvt.edu.ecsite/wp-content/uploads/2021/03/pp6.jpg (from https://www.utelvt.edu.ec/site/transparencia/ano-2018/)
+21:22:26	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://utelvt.edu.ecsite/wp-content/uploads/2021/03/pp7.jpg (from https://www.utelvt.edu.ec/site/transparencia/ano-2018/)
+21:22:26	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://utelvt.edu.ecsite/wp-content/uploads/2021/03/pp8.jpg (from https://www.utelvt.edu.ec/site/transparencia/ano-2018/)
+21:22:26	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=2394
+21:22:26	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=2394 to https://www.utelvt.edu.ec/site/transparencia/ano-2017/
+21:22:26	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://utelvt.edu.ecsite/wp-content/uploads/2021/03/p1.jpg (from https://www.utelvt.edu.ec/site/transparencia/ano-2017/)
+21:22:26	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://utelvt.edu.ecsite/wp-content/uploads/2021/03/p2.jpg (from https://www.utelvt.edu.ec/site/transparencia/ano-2017/)
+21:22:26	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://utelvt.edu.ecsite/wp-content/uploads/2021/03/p3.jpg (from https://www.utelvt.edu.ec/site/transparencia/ano-2017/)
+21:22:26	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://utelvt.edu.ecsite/wp-content/uploads/2021/03/p4.jpg (from https://www.utelvt.edu.ec/site/transparencia/ano-2017/)
+21:22:26	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://utelvt.edu.ecsite/wp-content/uploads/2021/03/p5.jpg (from https://www.utelvt.edu.ec/site/transparencia/ano-2017/)
+21:22:26	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://utelvt.edu.ecsite/wp-content/uploads/2021/03/p6.png (from https://www.utelvt.edu.ec/site/transparencia/ano-2017/)
+21:22:26	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://utelvt.edu.ecsite/wp-content/uploads/2021/03/p7.jpg (from https://www.utelvt.edu.ec/site/transparencia/ano-2017/)
+21:22:26	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=2375
+21:22:26	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=2375 to https://www.utelvt.edu.ec/site/transparencia/ano-2016/
+21:22:26	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=1482
+21:22:26	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=1482 to https://www.utelvt.edu.ec/site/transparencia/ano-2015/
+21:22:26	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=222
+21:22:26	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=222 to https://www.utelvt.edu.ec/site/contactenos/
+21:22:26	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=418
+21:22:26	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=418 to https://www.utelvt.edu.ec/site/nuestros-ambientes/
+21:22:27	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=3489
+21:22:27	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=3489 to https://www.utelvt.edu.ec/site/evaluacion/
+21:22:27	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=3009
+21:22:27	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=3009 to https://www.utelvt.edu.ec/site/bienestar-universitario/
+21:25:43	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=3534
+21:25:43	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=3534 to https://www.utelvt.edu.ec/site/soporte-academico/
+21:25:43	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=4169
+21:25:43	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=4169 to https://www.utelvt.edu.ec/site/servicios-en-linea/
+21:27:36	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=8964
+21:27:36	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=8964 to https://www.utelvt.edu.ec/site/course/centros-de-apoyo-academico/
+21:27:41	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=336
+21:27:41	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=336 to https://www.utelvt.edu.ec/site/course/radio/
+21:27:41	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=4857
+21:27:41	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=4857 to https://www.utelvt.edu.ec/site/empresa-publica/
+21:27:41	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://utelvt.edu.ecsite/wp-content/uploads/2021/07/customer-300x300.png (from https://www.utelvt.edu.ec/site/empresa-publica/)
+21:27:41	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://utelvt.edu.ecsite/wp-content/uploads/2021/07/estado-financiero-300x300.png (from https://www.utelvt.edu.ec/site/empresa-publica/)
+21:27:41	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://utelvt.edu.ecsite/wp-content/uploads/2021/07/capacitacion-300x300.png (from https://www.utelvt.edu.ec/site/empresa-publica/)
+21:27:41	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://utelvt.edu.ecsite/wp-content/uploads/2021/07/worker-300x300.png (from https://www.utelvt.edu.ec/site/empresa-publica/)
+21:27:41	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://utelvt.edu.ecsite/wp-content/uploads/2021/07/inventario-300x300.png (from https://www.utelvt.edu.ec/site/empresa-publica/)
+21:27:41	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://utelvt.edu.ecsite/wp-content/uploads/2021/07/libros-300x300.png (from https://www.utelvt.edu.ec/site/empresa-publica/)
+21:27:41	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://utelvt.edu.ecsite/wp-content/uploads/2021/07/profesional-300x300.png (from https://www.utelvt.edu.ec/site/empresa-publica/)
+21:27:41	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://utelvt.edu.ecsite/wp-content/uploads/2021/06/ss1.jpg (from https://www.utelvt.edu.ec/site/empresa-publica/)
+21:27:41	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=4689
+21:27:41	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=4689 to https://www.utelvt.edu.ec/site/consultorio-juridico/
+21:27:41	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=5397
+21:27:41	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=5397 to https://www.utelvt.edu.ec/site/plan-de-mejoramiento/
+21:27:41	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=5142
+21:27:41	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=5142 to https://www.utelvt.edu.ec/site/2021/09/16/informacion-complexivos/
+21:27:53	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=5328
+21:27:53	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=5328 to https://www.utelvt.edu.ec/site/producciones-cientificas/
+21:27:53	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=11296
+21:27:53	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=11296 to https://www.utelvt.edu.ec/site/convenios-nacionales/
+21:27:53	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=11325
+21:27:53	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=11325 to https://www.utelvt.edu.ec/site/convenios-internacionales/
+21:27:53	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=11422
+21:27:53	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=11422 to https://www.utelvt.edu.ec/site/cartas-de-compromiso/
+21:27:53	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=1050
+21:27:53	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=1050 to https://www.utelvt.edu.ec/site/facultades/facultad-de-ingenierias/ingenieria-electrica/
+21:27:53	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=1043
+21:27:53	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=1043 to https://www.utelvt.edu.ec/site/facultades/facultad-de-ingenierias/ingenieria-mecanica/
+21:27:53	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=1093
+21:27:53	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=1093 to https://www.utelvt.edu.ec/site/facultades/facultad-de-ingenierias/ingenieria-quimica/
+21:27:53	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=1113
+21:27:53	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=1113 to https://www.utelvt.edu.ec/site/facultades/facultad-de-ingenierias/tecnologias-de-la-informacion/
+21:27:53	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=984
+21:27:53	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=984 to https://www.utelvt.edu.ec/site/facultades/ciencias-sociales-y-de-servicios/turismo/
+21:27:53	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=701
+21:27:53	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=701 to https://www.utelvt.edu.ec/site/facultades/ciencias-sociales-y-de-servicios/sociologia/
+21:27:53	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=551
+21:27:53	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=551 to https://www.utelvt.edu.ec/site/facultades/ciencias-sociales-y-de-servicios/trabajo-social/
+21:27:53	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=1037
+21:27:53	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=1037 to https://www.utelvt.edu.ec/site/facultades/ciencias-administrativas-y-economicas/administracion-de-empresas/
+21:27:53	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=1270
+21:27:53	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=1270 to https://www.utelvt.edu.ec/site/facultades/ciencias-administrativas-y-economicas/contabilidad-y-auditoria/
+21:27:53	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=1280
+21:27:53	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=1280 to https://www.utelvt.edu.ec/site/facultades/ciencias-administrativas-y-economicas/comercio/
+21:27:53	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=1282
+21:27:53	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=1282 to https://www.utelvt.edu.ec/site/ingenieria-forestal/
+21:27:53	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=1283
+21:27:53	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=1283 to https://www.utelvt.edu.ec/site/facultades/ciencias-agropecuarias/ingenieria-en-agronomia/
+21:27:54	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=1285
+21:27:54	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=1285 to https://www.utelvt.edu.ec/site/facultades/ciencias-agropecuarias/ingenieria-en-zootecnia/
+21:27:54	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=1232
+21:27:54	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=1232 to https://www.utelvt.edu.ec/site/facultades/facultad-de-pedagogia/educacion-inicial/
+21:27:54	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=1233
+21:27:54	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=1233 to https://www.utelvt.edu.ec/site/facultades/facultad-de-pedagogia/educacion-basica/
+21:27:54	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=1235
+21:27:54	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=1235 to https://www.utelvt.edu.ec/site/facultades/facultad-de-pedagogia/pedagogia-de-las-ciencias-experimentales-de-la-quimica-y-biologia/
+21:27:54	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=1248
+21:27:54	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=1248 to https://www.utelvt.edu.ec/site/facultades/facultad-de-pedagogia/pedagogia-de-las-ciencias-experimentales-de-las-matematicas-y-la-fisica/
+21:27:54	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=1249
+21:27:54	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=1249 to https://www.utelvt.edu.ec/site/facultades/facultad-de-pedagogia/pedagogia-de-la-actividad-fisica-y-deporte/
+21:27:54	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=1251
+21:27:54	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=1251 to https://www.utelvt.edu.ec/site/facultades/facultad-de-pedagogia/pedagogia-de-la-lengua-y-literatuca/
+21:27:54	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://utelvt.edu.ecsite/wp-content/uploads/2021/03/pp1.jpg (from https://www.utelvt.edu.ec/site/transparencia/ano-2018/)
+21:27:54	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://utelvt.edu.ecsite/wp-content/uploads/2021/03/pp2.jpg (from https://www.utelvt.edu.ec/site/transparencia/ano-2018/)
+21:27:54	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://utelvt.edu.ecsite/wp-content/uploads/2021/03/pp3.jpg (from https://www.utelvt.edu.ec/site/transparencia/ano-2018/)
+21:27:54	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://utelvt.edu.ecsite/wp-content/uploads/2021/03/pp5.jpg (from https://www.utelvt.edu.ec/site/transparencia/ano-2018/)
+21:27:54	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://utelvt.edu.ecsite/wp-content/uploads/2021/03/pp6.jpg (from https://www.utelvt.edu.ec/site/transparencia/ano-2018/)
+21:27:54	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://utelvt.edu.ecsite/wp-content/uploads/2021/03/pp7.jpg (from https://www.utelvt.edu.ec/site/transparencia/ano-2018/)
+21:27:54	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://utelvt.edu.ecsite/wp-content/uploads/2021/03/pp8.jpg (from https://www.utelvt.edu.ec/site/transparencia/ano-2018/)
+21:27:54	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://utelvt.edu.ecsite/wp-content/uploads/2021/03/p1.jpg (from https://www.utelvt.edu.ec/site/transparencia/ano-2017/)
+21:27:54	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://utelvt.edu.ecsite/wp-content/uploads/2021/03/p2.jpg (from https://www.utelvt.edu.ec/site/transparencia/ano-2017/)
+21:27:54	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://utelvt.edu.ecsite/wp-content/uploads/2021/03/p3.jpg (from https://www.utelvt.edu.ec/site/transparencia/ano-2017/)
+21:27:54	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://utelvt.edu.ecsite/wp-content/uploads/2021/03/p4.jpg (from https://www.utelvt.edu.ec/site/transparencia/ano-2017/)
+21:27:54	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://utelvt.edu.ecsite/wp-content/uploads/2021/03/p5.jpg (from https://www.utelvt.edu.ec/site/transparencia/ano-2017/)
+21:27:54	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://utelvt.edu.ecsite/wp-content/uploads/2021/03/p6.png (from https://www.utelvt.edu.ec/site/transparencia/ano-2017/)
+21:27:54	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://utelvt.edu.ecsite/wp-content/uploads/2021/03/p7.jpg (from https://www.utelvt.edu.ec/site/transparencia/ano-2017/)
+21:27:54	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=9053
+21:27:54	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=9053 to https://www.utelvt.edu.ec/site/servicios-medicos/
+21:27:54	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=9578
+21:27:54	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=9578 to https://www.utelvt.edu.ec/site/psicologia-clinica/
+21:27:54	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=9084
+21:27:54	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=9084 to https://www.utelvt.edu.ec/site/becas-utlvte/
+21:27:54	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=10494
+21:27:54	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=10494 to https://www.utelvt.edu.ec/site/alianzas/
+21:27:54	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=9148
+21:27:54	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=9148 to https://www.utelvt.edu.ec/site/cogieg-utlvte/
+21:27:54	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=9169
+21:27:54	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=9169 to https://www.utelvt.edu.ec/site/normativa-y-reglamento-de-bienestar-universitario/
+21:27:54	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=9219
+21:27:54	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=9219 to https://www.utelvt.edu.ec/site/repositorio-de-bienestar-universitario/
+21:27:54	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=9170
+21:27:54	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=9170 to https://www.utelvt.edu.ec/site/logros-2023-y-proyecciones-2024/
+21:27:55	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=9496
+21:27:55	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=9496 to https://www.utelvt.edu.ec/site/data-utlvte/
+21:27:55	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=10255
+21:27:55	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=10255 to https://www.utelvt.edu.ec/site/cave/
+21:27:55	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=10395
+21:27:55	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=10395 to https://www.utelvt.edu.ec/site/planes/
+21:27:55	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=11404
+21:27:55	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=11404 to https://www.utelvt.edu.ec/site/curriculum-vitae-normalizado-de-la-utlvte/
+21:27:55	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=5254
+21:27:55	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=5254 to https://www.utelvt.edu.ec/site/noticias/
+21:35:46	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=8457
+21:35:46	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=8457 to https://www.utelvt.edu.ec/site/course/concurso-de-merecimiento-y-oposicion/
+21:35:51	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://utelvt.edu.ecsite/wp-content/uploads/2021/07/customer-300x300.png (from https://www.utelvt.edu.ec/site/empresa-publica/)
+21:35:51	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://utelvt.edu.ecsite/wp-content/uploads/2021/07/estado-financiero-300x300.png (from https://www.utelvt.edu.ec/site/empresa-publica/)
+21:35:51	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://utelvt.edu.ecsite/wp-content/uploads/2021/07/capacitacion-300x300.png (from https://www.utelvt.edu.ec/site/empresa-publica/)
+21:35:51	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://utelvt.edu.ecsite/wp-content/uploads/2021/07/worker-300x300.png (from https://www.utelvt.edu.ec/site/empresa-publica/)
+21:35:51	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://utelvt.edu.ecsite/wp-content/uploads/2021/07/inventario-300x300.png (from https://www.utelvt.edu.ec/site/empresa-publica/)
+21:35:51	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://utelvt.edu.ecsite/wp-content/uploads/2021/07/libros-300x300.png (from https://www.utelvt.edu.ec/site/empresa-publica/)
+21:35:51	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://utelvt.edu.ecsite/wp-content/uploads/2021/07/profesional-300x300.png (from https://www.utelvt.edu.ec/site/empresa-publica/)
+21:35:51	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://utelvt.edu.ecsite/wp-content/uploads/2021/06/ss1.jpg (from https://www.utelvt.edu.ec/site/empresa-publica/)
+21:35:51	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=5136
+21:35:51	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=5136 to https://www.utelvt.edu.ec/site/2021/09/16/plan-de-mejora/
+21:35:57	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://utelvt.edu.ecsite/wp-content/uploads/2021/03/pp1.jpg (from https://www.utelvt.edu.ec/site/transparencia/ano-2018/)
+21:36:03	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://utelvt.edu.ecsite/wp-content/uploads/2021/03/pp2.jpg (from https://www.utelvt.edu.ec/site/transparencia/ano-2018/)
+21:36:03	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://utelvt.edu.ecsite/wp-content/uploads/2021/03/pp3.jpg (from https://www.utelvt.edu.ec/site/transparencia/ano-2018/)
+21:36:03	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://utelvt.edu.ecsite/wp-content/uploads/2021/03/pp5.jpg (from https://www.utelvt.edu.ec/site/transparencia/ano-2018/)
+21:36:03	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://utelvt.edu.ecsite/wp-content/uploads/2021/03/pp6.jpg (from https://www.utelvt.edu.ec/site/transparencia/ano-2018/)
+21:36:03	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://utelvt.edu.ecsite/wp-content/uploads/2021/03/pp7.jpg (from https://www.utelvt.edu.ec/site/transparencia/ano-2018/)
+21:36:03	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://utelvt.edu.ecsite/wp-content/uploads/2021/03/pp8.jpg (from https://www.utelvt.edu.ec/site/transparencia/ano-2018/)
+21:36:03	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://utelvt.edu.ecsite/wp-content/uploads/2021/03/p1.jpg (from https://www.utelvt.edu.ec/site/transparencia/ano-2017/)
+21:36:03	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://utelvt.edu.ecsite/wp-content/uploads/2021/03/p2.jpg (from https://www.utelvt.edu.ec/site/transparencia/ano-2017/)
+21:36:03	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://utelvt.edu.ecsite/wp-content/uploads/2021/03/p3.jpg (from https://www.utelvt.edu.ec/site/transparencia/ano-2017/)
+21:36:03	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://utelvt.edu.ecsite/wp-content/uploads/2021/03/p4.jpg (from https://www.utelvt.edu.ec/site/transparencia/ano-2017/)
+21:36:03	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://utelvt.edu.ecsite/wp-content/uploads/2021/03/p5.jpg (from https://www.utelvt.edu.ec/site/transparencia/ano-2017/)
+21:36:03	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://utelvt.edu.ecsite/wp-content/uploads/2021/03/p6.png (from https://www.utelvt.edu.ec/site/transparencia/ano-2017/)
+21:36:03	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://utelvt.edu.ecsite/wp-content/uploads/2021/03/p7.jpg (from https://www.utelvt.edu.ec/site/transparencia/ano-2017/)
+21:36:03	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=11908
+21:36:03	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=11908 to https://www.utelvt.edu.ec/site/2024/10/07/utlvte-y-casa-de-la-juventud-se-unen-en-la-campana-yo-me-quiero-para-prevenir-el-suicidio-juvenil/
+21:36:07	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=11903
+21:36:07	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=11903 to https://www.utelvt.edu.ec/site/2024/10/07/dr-girard-vernaza-arroyo-phd-es-designado-director-internacional-de-la-honorable-academia-mundial-de-educacion-en-ecuador/
+21:36:07	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=11900
+21:36:07	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=11900 to https://www.utelvt.edu.ec/site/2024/10/03/facultad-de-las-ciencias-agropecuarias-elige-al-mister-y-miss-mutilera/
+21:36:07	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=11896
+21:36:07	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=11896 to https://www.utelvt.edu.ec/site/2024/10/01/se-conforma-comite-ejecutivo-ampliado-de-feue-es/
+21:36:08	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=11892
+21:36:08	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=11892 to https://www.utelvt.edu.ec/site/2024/09/26/la-utlvte-presenta-su-bolsa-de-empleo-en-el-iii-encuentro-de-seguimiento-a-graduados-as/
+21:36:08	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=11889
+21:36:08	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=11889 to https://www.utelvt.edu.ec/site/2024/09/26/clubes-universitarios-reciben-implementos-de-acuerdo-a-su-gestion-y-accionar-dentro-de-la-comunidad-universitaria/
+21:36:08	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=11886
+21:36:08	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=11886 to https://www.utelvt.edu.ec/site/2024/09/25/ciclo-economico-de-esmeraldas-fue-expuesto-por-investigadores-en-la-utlvte/
+21:36:08	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=11883
+21:36:08	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=11883 to https://www.utelvt.edu.ec/site/2024/09/24/%f0%9d%97%a6%f0%9d%97%b2-%f0%9d%97%b6%f0%9d%97%bb%f0%9d%97%ae%f0%9d%98%82%f0%9d%97%b4%f0%9d%98%82%f0%9d%97%bf%f0%9d%97%ae-%f0%9d%97%a6%f0%9d%97%ae%f0%9d%97%b9%f0%9d%97%ae-%f0%9d%97%b1%f0%9d%97%b2/
+21:36:08	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=11880
+21:36:08	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=11880 to https://www.utelvt.edu.ec/site/2024/09/24/%f0%9d%97%a8%f0%9d%97%a7%f0%9d%97%9f%f0%9d%97%a9%f0%9d%97%a7%f0%9d%97%98-%f0%9d%97%b0%f0%9d%97%b2%f0%9d%97%b9%f0%9d%97%b2%f0%9d%97%af%f0%9d%97%bf%f0%9d%97%ae-%f0%9d%97%97i%f0%9d%97%ae-%f0%9d%97%b1/
+21:36:08	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=11868
+21:36:08	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=11868 to https://www.utelvt.edu.ec/site/2024/09/12/utlvte-propicia-espacios-de-innovacion-tecnologica-con-el-infoday-cedia/
+21:36:08	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=11864
+21:36:08	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=11864 to https://www.utelvt.edu.ec/site/2024/09/11/directivos-del-area-de-evaluacion-y-aseguramiento-de-la-calidad-de-la-utlvte-participan-en-foro-organizado-por-la-asesec/
+21:36:08	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=11861
+21:36:08	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=11861 to https://www.utelvt.edu.ec/site/2024/09/11/inauguracion-de-sala-de-control-y-vigilancia-refuerza-la-seguridad-en-la-utlvte/
+21:36:08	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=11857
+21:36:08	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=11857 to https://www.utelvt.edu.ec/site/2024/09/10/se-inaugura-sala-de-lectura-infantil-en-la-biblioteca-universitaria/
+21:36:08	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=11851
+21:36:08	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=11851 to https://www.utelvt.edu.ec/site/2024/09/09/fase-de-asignacion-y-aceptacion-de-cupos-para-estudiantes-de-acuerdo-al-puntaje-obtenido/
+21:36:08	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=11795
+21:36:08	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=11795 to https://www.utelvt.edu.ec/site/2024/09/02/representacion-estudiantil-distingue-a-60-lideres-universitarios-con-importante-reconocimiento/
+21:36:08	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=11788
+21:36:08	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=11788 to https://www.utelvt.edu.ec/site/2024/09/02/la-universidad-tecnica-luis-vargas-torres-de-esmeraldas-presentara-su-bolsa-de-empleo-en-el-iii-encuentro-de-graduados-as/
+21:36:08	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=11782
+21:36:08	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=11782 to https://www.utelvt.edu.ec/site/2024/08/29/estudiantes-de-la-facae-se-capacitan-en-temas-comerciales/
+21:36:08	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=11763
+21:36:08	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=11763 to https://www.utelvt.edu.ec/site/2024/08/28/directivos-de-la-utlvte-participan-en-la-capacitacion-fortalecimiento-de-las-finanzas-de-las-ies/
+21:36:08	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=11704
+21:36:08	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=11704 to https://www.utelvt.edu.ec/site/2024/08/26/utlvte-se-destaca-en-el-torneo-copa-huma-rugby-ecuador/
+21:36:08	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=11590
+21:36:08	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=11590 to https://www.utelvt.edu.ec/site/2024/08/22/el-cronograma-de-titulacion-fue-analizada-en-importante-reunion/
+21:36:08	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=11449
+21:36:08	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=11449 to https://www.utelvt.edu.ec/site/2024/08/21/estudiantado-vargastorrino-se-destaca-en-torneo-de-debate/
+21:36:08	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=11395
+21:36:08	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=11395 to https://www.utelvt.edu.ec/site/2024/08/15/inicia-fase-de-evaluacion-para-el-curso-de-nivelacion-iis-2024/
+21:36:08	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=11392
+21:36:08	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=11392 to https://www.utelvt.edu.ec/site/2024/08/12/aseguramiento-de-la-calidad-de-la-utlvte-socializa-proceso-de-autoevaluacion-de-carreras/
+21:36:08	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=11381
+21:36:08	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=11381 to https://www.utelvt.edu.ec/site/2024/08/02/utlvte-inicia-ciclo-academico-is-2024/
+21:36:09	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=11372
+21:36:09	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=11372 to https://www.utelvt.edu.ec/site/2024/08/01/bienestar-universitario-trabaja-en-proyecto-campus-verde/
+21:36:09	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=11280
+21:36:09	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=11280 to https://www.utelvt.edu.ec/site/2024/07/24/utlvte-fortalece-normativas-de-investigacion-y-vinculacion-en-importante-taller/
+21:36:09	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=11271
+21:36:09	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=11271 to https://www.utelvt.edu.ec/site/2024/07/23/utlvte-centra-su-atencion-en-las-necesidades-academicas-del-canton-atacames/
+21:36:09	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=11264
+21:36:09	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=11264 to https://www.utelvt.edu.ec/site/2024/07/22/utlvte-tiene-representante-oficial-en-certamen-reina-de-esmeraldas-2024/
+21:36:09	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=11259
+21:36:09	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=11259 to https://www.utelvt.edu.ec/site/2024/07/16/utlvte-destaca-su-participacion-en-el-dialogo-diversidades-y-arte-en-la-educacion-superior/
+21:36:09	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=11249
+21:36:09	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=11249 to https://www.utelvt.edu.ec/site/2024/07/15/abierta-la-convocatoria-para-realizar-pasantias-en-italia-del-proyecto-habilitas-2024/
+21:36:09	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=11245
+21:36:09	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=11245 to https://www.utelvt.edu.ec/site/2024/07/15/tlvte-dona-juegos-infantiles-a-la-escuela-de-educacion-basica-juan-montalvo-fiallos/
+21:36:09	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=11238
+21:36:09	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=11238 to https://www.utelvt.edu.ec/site/2024/07/10/universidad-tecnica-luis-vargas-torres-de-esmeraldas-trabaja-para-expandir-la-educacion-superior-en-quininde/
+21:36:09	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=11234
+21:36:09	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=11234 to https://www.utelvt.edu.ec/site/2024/07/10/estudiantado-vargastorrino-tiene-la-oportunidad-de-hacer-vinculacion-con-la-sociedad-en-el-segundo-mapaton/
+21:36:09	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=11206
+21:36:09	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=11206 to https://www.utelvt.edu.ec/site/2024/07/08/utlvte-inicia-proceso-de-matriculas-al-curso-de-nivelacion-del-is-2024/
+21:36:09	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=11203
+21:36:09	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=11203 to https://www.utelvt.edu.ec/site/2024/07/08/utlvte-capacita-a-sus-docentes-mediante-los-cursos-de-perfeccionamiento-academico/
+21:36:09	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=11197
+21:36:09	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=11197 to https://www.utelvt.edu.ec/site/2024/07/03/abierta-la-convocatoria-para-proyectos-de-salud-sexual-y-reproductiva-francia/
+21:36:09	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=11194
+21:36:09	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=11194 to https://www.utelvt.edu.ec/site/2024/07/03/utlvte-celebra-junto-al-pueblo-quinindeno-sus-57-anos-de-cantonizacion/
+21:36:09	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=11190
+21:36:09	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=11190 to https://www.utelvt.edu.ec/site/2024/07/02/feue-conforma-comite-ejecutivo-y-aprueba-estatuto-local/
+21:36:09	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=11180
+21:36:09	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=11180 to https://www.utelvt.edu.ec/site/2024/07/02/inicia-toma-de-examenes-complexivos-correspondientes-a-la-cohorte-is-2023/
+21:36:09	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=11155
+21:36:09	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=11155 to https://www.utelvt.edu.ec/site/2024/07/01/utlvte-organizo-conferencia-en-donde-se-debatio-la-cultura-historia-y-el-cimarronismo/
+21:36:09	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=11150
+21:36:09	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=11150 to https://www.utelvt.edu.ec/site/2024/06/27/carmen-amparo-betancourt-recibe-reconocimiento-por-su-dedicacion-y-liderazgo/
+21:36:09	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=11141
+21:36:09	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=11141 to https://www.utelvt.edu.ec/site/2024/06/26/el-dr-khalid-asslami-logra-sobresaliente-cum-laude-parala-primera-tesis-doctoral-industrial-en-el-ambito-de-la-educacion-de-la-universidad-de-burgos-en-espana/
+21:36:09	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=11137
+21:36:09	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=11137 to https://www.utelvt.edu.ec/site/2024/06/26/la-universidad-tecnica-luis-vargas-torres-de-esmeraldas-inicia-fase-de-inscripcion-y-seleccion-de-carrera-para-periodo-iis-2024/
+21:36:09	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=11129
+21:36:09	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=11129 to https://www.utelvt.edu.ec/site/2024/06/24/facae-incorpora-ingenieros-y-licenciados-en-contabilidad-y-auditoria/
+21:36:09	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=11126
+21:36:09	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=11126 to https://www.utelvt.edu.ec/site/2024/06/24/sede-santo-domingo-de-los-tsachilas-de-la-utlvte-gradua-nuevos-profesionales/
+21:36:09	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=11120
+21:36:09	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=11120 to https://www.utelvt.edu.ec/site/2024/06/24/seleccionado-vargastorrino-obtuvo-el-primer-lugar-en-torneo-interuniversitario/
+21:36:09	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=11105
+21:36:09	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=11105 to https://www.utelvt.edu.ec/site/2024/06/20/utlvte-cierra-ciclo-academico-satisfactoriamente/
+21:36:09	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=11102
+21:36:09	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=11102 to https://www.utelvt.edu.ec/site/2024/06/20/carrera-de-trabajo-social-incorpora-nuevos-profesionales/
+21:36:09	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=11098
+21:36:09	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=11098 to https://www.utelvt.edu.ec/site/2024/06/18/utlvte-y-acnur-organizan-el-foro-personas-refugiadas-y-comunidad-de-acogida/
+21:36:09	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=11094
+21:36:09	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=11094 to https://www.utelvt.edu.ec/site/2024/06/18/docentes-de-facped-fueron-capacitados-en-el-area-de-resolucion-de-conflictos/
+21:36:10	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=11088
+21:36:10	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=11088 to https://www.utelvt.edu.ec/site/2024/06/17/carrera-de-turismo-incorpora-a-30-nuevos-licenciados/
+21:36:10	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=11025
+21:36:10	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=11025 to https://www.utelvt.edu.ec/site/2024/06/10/curso-de-soldadura-organizado-por-la-utlvte-y-la-casa-de-la-juventud-llego-a-su-etapa-final/
+21:36:10	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=11016
+21:36:10	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=11016 to https://www.utelvt.edu.ec/site/2024/06/05/se-inicia-la-recepcion-de-documentos-para-movilidad-estudiantil/
+21:36:10	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=11011
+21:36:10	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=11011 to https://www.utelvt.edu.ec/site/2024/06/04/conferencia-salto-cuantico-de-la-educacion-mundial-destaca-en-celebracion-del-54-aniversario-de-utlvte/
+21:36:10	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=11007
+21:36:10	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=11007 to https://www.utelvt.edu.ec/site/2024/06/03/estudiantes-de-la-carrera-de-lengua-y-literatura-de-utlvte-realizan-actividad-vivencial-en-escuela-de-educacion-especial/
+21:36:10	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=11003
+21:36:10	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=11003 to https://www.utelvt.edu.ec/site/2024/06/03/seleccion-femenina-de-facped-triunfa-en-el-intercarreras-de-futbol/
+21:36:10	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=10996
+21:36:10	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=10996 to https://www.utelvt.edu.ec/site/2024/05/30/casa-abierta-de-la-direccion-de-admision-de-la-utlvte-despierta-interes-en-carreras-a-seguir/
+21:36:10	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=10992
+21:36:10	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=10992 to https://www.utelvt.edu.ec/site/2024/05/30/utlvte-y-caritas-esmeraldas-fomentan-cultura-de-paz-a-traves-de-conversatorios-y-conferencias/
+21:36:10	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=10989
+21:36:10	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=10989 to https://www.utelvt.edu.ec/site/2024/05/30/la-facultad-de-ciencias-sociales-y-de-servicios-celebra-su-44-aniversario/
+21:36:10	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=10985
+21:36:10	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=10985 to https://www.utelvt.edu.ec/site/2024/05/30/actividades-deportivas-fomentaron-la-unidad-de-la-comunidad-universitaria-en-la-celebracion-de-los-54-anos-de-la-utlvte/
+21:36:10	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=10981
+21:36:10	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=10981 to https://www.utelvt.edu.ec/site/2024/05/29/feria-academica-promociono-carreras-y-proyectos/
+21:36:10	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=10971
+21:36:10	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=10971 to https://www.utelvt.edu.ec/site/2024/05/18/multitudinario-pregon-vargastorrino-supero-expectativas/
+21:36:10	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=10963
+21:36:10	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=10963 to https://www.utelvt.edu.ec/site/2024/05/17/la-utlvte-realiza-pregon-institucional-somos-una-universidad-acreditada-por-los-54-anos-de-aniversario/
+21:36:10	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=10959
+21:36:10	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=10959 to https://www.utelvt.edu.ec/site/2024/05/10/arranca-campeonato-estudiantil-intercarreras-utlvte/
+21:36:10	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=10955
+21:36:10	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=10955 to https://www.utelvt.edu.ec/site/2024/05/09/utlvte-realiza-primer-encuentro-de-salud-tu-utlvte-te-cuida/
+21:36:10	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=10952
+21:36:10	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=10952 to https://www.utelvt.edu.ec/site/2024/05/08/utlvte-trabaja-en-la-conformacion-de-una-banda-de-paz/
+21:36:10	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=10936
+21:36:10	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=10936 to https://www.utelvt.edu.ec/site/2024/04/30/utlvte-apoya-a-la-direccion-distrital-de-salud-en-jornada-deportiva/
+21:36:10	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=10930
+21:36:10	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=10930 to https://www.utelvt.edu.ec/site/2024/04/29/facultad-de-las-ingenierias-incorpora-a-59-ingenieros-quimicos/
+21:36:10	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=10923
+21:36:10	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=10923 to https://www.utelvt.edu.ec/site/2024/04/23/se-apertura-cuenta-bancaria-para-agilitar-tramites-de-pagos-y-otros-servicios-universitarios/
+21:36:10	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=10910
+21:36:10	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=10910 to https://www.utelvt.edu.ec/site/2024/04/12/destacado-evento-muestra-las-bondades-de-la-carrera-de-turismo/
+21:36:10	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=10907
+21:36:10	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=10907 to https://www.utelvt.edu.ec/site/2024/04/11/se-constituye-club-de-ritmos-latinos-en-la-utlvte/
+21:36:10	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=10903
+21:36:10	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=10903 to https://www.utelvt.edu.ec/site/2024/04/10/utlvte-fortalece-la-internacionalizacion-a-traves-de-la-unidad-de-relaciones-nacionales-e-internacionales/
+21:36:10	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=10883
+21:36:10	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=10883 to https://www.utelvt.edu.ec/site/2024/04/10/estudiantes-de-ingenieria-mecanica-realizan-mantenimiento-integral-al-salon-azul-de-la-utlvte/
+21:36:10	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=10876
+21:36:10	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=10876 to https://www.utelvt.edu.ec/site/2024/04/08/rector-de-la-utlvte-socializa-nuevo-modelo-de-evaluacion-con-fines-de-acreditacion/
+21:36:10	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=10869
+21:36:10	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=10869 to https://www.utelvt.edu.ec/site/2024/04/05/segunda-oportunidad-para-postular-a-una-carrera-en-la-utlvte/
+21:36:11	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=10863
+21:36:11	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=10863 to https://www.utelvt.edu.ec/site/2024/04/03/utlvte-capacita-a-los-trabajadores-en-temas-de-prevencion-y-seguridad/
+21:36:11	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=10857
+21:36:11	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=10857 to https://www.utelvt.edu.ec/site/2024/03/28/tribunal-electoral-universitario-posesiona-a-las-autoridades-electas-para-diferentes-organismos-de-gobierno-y-co-gobienro-de-la-utlvte/
+21:36:11	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=10854
+21:36:11	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=10854 to https://www.utelvt.edu.ec/site/2024/03/26/la-utlvte-se-capacita-para-la-implementacion-de-tres-aulas-de-diversidad-funcional-en-todos-sus-campus/
+21:36:11	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=10851
+21:36:11	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=10851 to https://www.utelvt.edu.ec/site/2024/03/26/universidad-tecnica-luis-vargas-torres-de-esmeraldas-promoviendo-la-salud-mental/
+21:36:11	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=10838
+21:36:11	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=10838 to https://www.utelvt.edu.ec/site/2024/03/22/culmino-exitosa-programacion-en-conmemoracion-del-coronel-luis-vargas-torres-en-la-utlvte/
+21:36:11	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=10825
+21:36:11	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=10825 to https://www.utelvt.edu.ec/site/2024/03/22/utlvte-celebra-acreditacion-en-acto-de-rendicion-de-cuentas-correspondiente-a-la-gestion-2023/
+21:36:11	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=10816
+21:36:11	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=10816 to https://www.utelvt.edu.ec/site/2024/03/08/gobernacion-entrega-reconocimientos-a-la-utlvte-por-labor-humanitaria-en-apoyo-a-las-familias-afectadas-por-las-lluvias/
+21:36:11	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=10813
+21:36:11	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=10813 to https://www.utelvt.edu.ec/site/2024/03/07/carrera-de-educacion-inicial-realiza-foro-para-conmemorar-el-dia-internacional-de-la-mujer/
+21:36:11	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=10809
+21:36:11	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=10809 to https://www.utelvt.edu.ec/site/2024/03/06/comunidad-universitaria-participa-activamente-en-campana-de-donacion-de-sangre/
+21:36:11	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=10805
+21:36:11	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=10805 to https://www.utelvt.edu.ec/site/2024/03/04/utlvte-inicia-fase-de-evaluacion-de-capacidades-para-el-ingreso-al-curso-de-nivelacion/
+21:36:11	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=10800
+21:36:11	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=10800 to https://www.utelvt.edu.ec/site/2024/03/01/utlvte-se-prepara-la-toma-de-la-evaluacion-a-los-aspirantes-de-admision/
+21:36:11	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=10785
+21:36:11	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=10785 to https://www.utelvt.edu.ec/site/2024/02/28/alternativa-universitaria-unica-lista-inscrita-en-elecciones-universitarias-2024/
+21:36:11	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=10779
+21:36:11	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=10779 to https://www.utelvt.edu.ec/site/2024/02/23/utlvte-motiva-a-su-seleccion-de-futbol-con-la-entrega-de-nuevos-uniformes/
+21:36:11	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=10774
+21:36:11	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=10774 to https://www.utelvt.edu.ec/site/2024/02/22/el-vicerrectorado-de-investigacion-vinculacion-y-posgrado-de-la-utlvte-capacita-sobre-nuevos-modelos-de-proyectos/
+21:36:11	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=10747
+21:36:11	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=10747 to https://www.utelvt.edu.ec/site/2024/02/20/bienestar-universitario-coordina-campana-de-vacunacion-en-la-utlvte/
+21:36:11	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=10749
+21:36:11	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=10749 to https://www.utelvt.edu.ec/site/2024/02/20/consejo-superior-universitario-posesiona-al-tribunal-electoral-de-la-utlvte/
+21:36:11	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=10732
+21:36:11	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=10732 to https://www.utelvt.edu.ec/site/2024/02/16/se-amplia-plazo-para-inscripcion-y-seleccion-de-carreras-de-cara-al-proceso-de-admision-periodo-is-2024/
+21:36:11	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=10728
+21:36:11	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=10728 to https://www.utelvt.edu.ec/site/2024/02/14/el-estudiantado-vargastorrino-dispone-de-setenta-instituciones-para-hacer-sus-practicas-preprofesionales/
+21:36:11	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=10718
+21:36:11	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=10718 to https://www.utelvt.edu.ec/site/2024/02/14/autoridades-universitarias-reinauguran-cancha-sintetica-en-campus-nuevos-horizontes/
+21:36:11	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=10714
+21:36:11	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=10714 to https://www.utelvt.edu.ec/site/2024/02/08/estudiantado-vargastorrino-responde-con-entusiasmo-a-la-convocatoria-para-conformar-equipos-deportivos/
+21:36:11	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=10710
+21:36:11	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=10710 to https://www.utelvt.edu.ec/site/2024/02/05/utlvte-y-celec-ep-firmaron-convenio-marco-de-cooperacion-institucional/
+21:36:11	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=8185
+21:36:11	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=8185 to https://www.utelvt.edu.ec/site/course/capacitacion-docente/
+21:36:16	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://utelvt.edu.ecsite/wp-content/uploads/2021/07/customer-300x300.png (from https://www.utelvt.edu.ec/site/empresa-publica/)
+21:36:16	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://utelvt.edu.ecsite/wp-content/uploads/2021/07/estado-financiero-300x300.png (from https://www.utelvt.edu.ec/site/empresa-publica/)
+21:36:16	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://utelvt.edu.ecsite/wp-content/uploads/2021/07/capacitacion-300x300.png (from https://www.utelvt.edu.ec/site/empresa-publica/)
+21:36:16	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://utelvt.edu.ecsite/wp-content/uploads/2021/07/worker-300x300.png (from https://www.utelvt.edu.ec/site/empresa-publica/)
+21:36:16	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://utelvt.edu.ecsite/wp-content/uploads/2021/07/inventario-300x300.png (from https://www.utelvt.edu.ec/site/empresa-publica/)
+21:36:16	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://utelvt.edu.ecsite/wp-content/uploads/2021/07/libros-300x300.png (from https://www.utelvt.edu.ec/site/empresa-publica/)
+21:36:16	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://utelvt.edu.ecsite/wp-content/uploads/2021/07/profesional-300x300.png (from https://www.utelvt.edu.ec/site/empresa-publica/)
+21:36:16	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://utelvt.edu.ecsite/wp-content/uploads/2021/06/ss1.jpg (from https://www.utelvt.edu.ec/site/empresa-publica/)
+21:36:16	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=259
+21:36:16	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=259 to https://www.utelvt.edu.ec/site/2020/10/08/tania-daniela-angulo-chavez/
+21:36:42	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=623
+21:36:42	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=623 to https://www.utelvt.edu.ec/site/course/maestrias/
+21:37:33	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=149
+21:37:33	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=149 to https://www.utelvt.edu.ec/site/2020/10/08/vinculacion-social/
+21:37:34	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=145
+21:37:34	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=145 to https://www.utelvt.edu.ec/site/2020/10/08/reconocimiento-internacional/
+21:37:34	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=394
+21:37:34	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=394 to https://www.utelvt.edu.ec/site/course/biblioteca/
+21:37:41	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=142
+21:37:41	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=142 to https://www.utelvt.edu.ec/site/2020/10/08/impulsados-por-nuestras-curiosidades/
+21:37:42	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=139
+21:37:42	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=139 to https://www.utelvt.edu.ec/site/2020/10/08/diversidad-intelectual/
+21:37:42	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=83
+21:37:42	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=83 to https://www.utelvt.edu.ec/site/2020/10/08/empresariales/
+21:37:42	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=76
+21:37:42	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=76 to https://www.utelvt.edu.ec/site/2020/10/08/educativos/
+21:37:42	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=69
+21:37:42	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=69 to https://www.utelvt.edu.ec/site/2020/10/08/tecnologicos/
+21:37:42	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=65
+21:37:42	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=65 to https://www.utelvt.edu.ec/site/2020/10/08/idiomas/
+21:37:42	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=46
+21:37:42	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=46 to https://www.utelvt.edu.ec/site/2020/10/08/agenda-cultural/
+21:37:42	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=42
+21:37:42	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=42 to https://www.utelvt.edu.ec/site/2020/10/08/bienestaruniversitario/
+21:37:55	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=393
+21:37:55	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=393 to https://www.utelvt.edu.ec/site/course/agenda-universitaria/
+21:37:55	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=37
+21:37:55	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=37 to https://www.utelvt.edu.ec/site/2020/10/08/evaluacion/
+21:37:55	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=32
+21:37:55	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=32 to https://www.utelvt.edu.ec/site/2020/10/08/i-congreso-internacional-sistemas-inteligentes/
+21:37:55	Warning: 	Moved Permanently for https://www.utelvt.edu.ec/site/?p=21
+21:37:55	Warning: 	File has moved from https://www.utelvt.edu.ec/site/?p=21 to https://www.utelvt.edu.ec/site/2020/10/08/inscripciones-abiertas-para-grado-primer-semestre-2021/
+
+HTTrack Website Copier/3.49-2 mirror complete in 26 minutes 39 seconds : 1931 links scanned, 1674 files written (148098519 bytes overall) [149150764 bytes received at 93277 bytes/sec], 1.1 requests per connection
+(25 errors, 419 warnings, 0 messages)
